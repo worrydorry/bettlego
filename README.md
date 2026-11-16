@@ -1,2 +1,2 @@
 # bettlego
-vibe coding game for children
+BEETLE + BATTLE vibe coding game for children
