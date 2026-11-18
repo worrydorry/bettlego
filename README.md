@@ -8,7 +8,7 @@ BEETLE + BATTLE vibe coding game for children
 - 권장 환경: Windows·Android의 Chrome·Edge·삼성 인터넷(가로 화면으로 자동 전환). 아이폰·아이패드 Safari (가로화면으로 수동 전환 필요. 화면 고정을 풀어주세요)
 - 만든 사람: worrydorry(inho.yeo.rok@gmail.com) · 그래픽: Microsoft Copilot(AI) 생성 · 코드: Claude(AI) 생성 · 비영리
 - 사용한 글꼴·사진의 출처와 라이선스는 게임 메인 화면 아래 [라이선스]에서 볼 수 있습니다.
-- 의견·버그 신고: 위쪽 [Issues] 텝에 남겨 주세요.
+- 의견·버그 신고: 위쪽 [Issues] 탭[https://github.com/worrydorry/bettlego/issues]에 남겨 주세요.
 
 ---
 
