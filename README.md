@@ -5,7 +5,7 @@ BEETLE + BATTLE vibe coding game for children
 숲을 탐험하며 곤충의 흔적을 찾고, 덧셈·뺄셈(받아올림·받아내림)·영어·한자 문제를 풀어 곤충과 겨루고, 잡은 곤충을 도감에 모읍니다.
 
 - 게임 하기: https://worrydorry.github.io/bettlego/
-- 권장 환경: Windows·Android의 Chrome·Edge·삼성 인터넷(가로 화면). 아이폰·아이패드 Safari는 지원 대상이 아닙니다.
+- 권장 환경: Windows·Android의 Chrome·Edge·삼성 인터넷(가로 화면으로 자동 전환). 아이폰·아이패드 Safari (가로화면으로 수동 전환 필요. 화면 고정을 풀어주세요)
 - 만든 사람: worrydorry(inho.yeo.rok@gmail.com) · 그래픽: Microsoft Copilot(AI) 생성 · 코드: Claude(AI) 생성 · 비영리
 - 사용한 글꼴·사진의 출처와 라이선스는 게임 메인 화면 아래 [라이선스]에서 볼 수 있습니다.
 - 의견·버그 신고: 위쪽 [Issues] 텝에 남겨 주세요.
